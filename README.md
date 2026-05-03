@@ -84,10 +84,10 @@ currently :
 
 | Focus | Progress |
 |:---|:---|
-| Mobile Development | `🌸🌸🌸🌸🌸🌸░░░░` 60% |
-| Computer Vision (YOLO) | `🌸🌸🌸🌸🌸░░░░░` 55% |
-| Full-Stack Web Dev | `🌸🌸🌸🌸░░░░░░` 40% |
-| Smart Contract | `🌸🌸🌸░░░░░░░` 30% |
+| Mobile Development | `🌸🌸🌸🌸🌸🌸` 60% |
+| Computer Vision (YOLO) | `🌸🌸🌸🌸🌸` 55% |
+| Full-Stack Web Dev | `🌸🌸🌸🌸` 40% |
+| Smart Contract | `🌸🌸🌸` 30% |
 
 </div>
 
