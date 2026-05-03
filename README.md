@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=20&duration=3000&pause=800&color=FF6B9D&center=true&vCenter=true&width=650&lines=Hello+there!+I'm+Rara+%F0%9F%8C%B8;Building+AI+%26+Web+Projects+with+Love+%F0%9F%92%97;Aspiring+Apple+Developer+Academy+Candidate+%F0%9F%8D%8E;Let's+create+something+beautiful+together+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=20&duration=3000&pause=800&color=FF6B9D&center=true&vCenter=true&width=650&lines=Hello+there!+I'm+Rara+%F0%9F%8C%B8;Building+AI+%26+Web+Projects+with+Love+%F0%9F%92%97;Turning+Ideas+into+Reality%2C+One+Commit+at+a+Time+%F0%9F%8C%B7;Let's+create+something+beautiful+together+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>
 
@@ -41,9 +41,9 @@ loves     :
   - Smart Contracts ⛓️
 
 currently :
-  - 🍎 Aiming for Apple Developer Academy
-  - 🔭 Exploring Computer Vision
-  - 🌱 Learning Swift & iOS Dev
+  - 🔭 Exploring Computer Vision & Deep Learning
+  - 🌱 Building real-world AI & Web projects
+  - 📱 Diving into Mobile Development
   - 💌 Open to collaboration!
 ```
 
@@ -88,7 +88,7 @@ currently :
 
 | 💭 Focus | 🌸 Progress |
 |:---|:---|
-| 🍎 Swift & iOS Development | `🌸🌸🌸🌸🌸🌸░░░░` 60% |
+| 📱 Mobile Development | `🌸🌸🌸🌸🌸🌸░░░░` 60% |
 | 🤖 Computer Vision (YOLO) | `🌸🌸🌸🌸🌸░░░░░` 55% |
 | 🌐 Full-Stack Web Dev | `🌸🌸🌸🌸░░░░░░` 40% |
 | ⛓️ Smart Contract | `🌸🌸🌸░░░░░░░` 30% |
@@ -101,13 +101,10 @@ currently :
 
 <div align="center">
 
-<a href="https://github.com/rarasyifaqaisa/vision-guard">
+<a href="https://github.com/rarasyifaqaisa/pantaugizi-app">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rarasyifaqaisa&repo=vision-guard&hide_border=true&bg_color=fff0f5&title_color=FF6B9D&icon_color=FF6B9D&text_color=c9547a" />
 </a>
 &nbsp;
-<a href="https://github.com/rarasyifaqaisa/dataflow-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rarasyifaqaisa&repo=dataflow-ai&hide_border=true&bg_color=fff0f5&title_color=FF6B9D&icon_color=FF6B9D&text_color=c9547a" />
-</a>
 
 </div>
 
@@ -148,9 +145,9 @@ currently :
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD6E7?style=for-the-badge&logo=linkedin&logoColor=FF6B9D)](https://linkedin.com/in/rarasyifaqaisa)
-[![Instagram](https://img.shields.io/badge/Instagram-FFD6E7?style=for-the-badge&logo=instagram&logoColor=FF6B9D)](https://instagram.com/rarasyifaqaisa)
+[![Instagram](https://img.shields.io/badge/Instagram-FFD6E7?style=for-the-badge&logo=instagram&logoColor=FF6B9D)](https://instagram.com/rarasyifa._)
 [![Gmail](https://img.shields.io/badge/Gmail-FFD6E7?style=for-the-badge&logo=gmail&logoColor=FF6B9D)](mailto:rarasyifaqaisa@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFD6E7?style=for-the-badge&logo=vercel&logoColor=FF6B9D)](https://rarasyifaqaisa.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFD6E7?style=for-the-badge&logo=vercel&logoColor=FF6B9D)](https://pantaugizi-app.vercel.app)
 
 <br/>
 
