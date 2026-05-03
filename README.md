@@ -4,8 +4,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=0,2,2,5,30&height=200&text=Rara%20Syifa%20Qaisa&fontAlign=50&fontAlignY=50&fontSize=36&fontColor=fff&animation=fadeIn&desc=✨%20AI%20%26%20Web%20Developer%20✨&descAlign=50&descAlignY=68&descSize=14" width="100%"/>
-
 </div>
 
 <br/>
@@ -24,30 +22,28 @@
 
 ---
 
-<img align="right" width="180" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="cute coding gif"/>
-
 ### 🌸 `about me`
 
 ```yaml
 name      : Rara Syifa Qaisa
-study     : S1 Teknologi Informasi 🎓
+study     : S1 Teknologi Informasi
 location  : Indonesia 🇮🇩
-mood      : always caffeinated ☕
+mood      : always caffeinated
 
 loves     :
-  - Building AI things 🤖
-  - Clean & pretty UI 🎀
-  - Learning new tech 📚
-  - Smart Contracts ⛓️
+  - Building AI things
+  - Clean & pretty UI
+  - Learning new tech
+  - Smart Contracts
 
 currently :
-  - 🔭 Exploring Computer Vision & Deep Learning
-  - 🌱 Building real-world AI & Web projects
-  - 📱 Diving into Mobile Development
-  - 💌 Open to collaboration!
+  - Exploring Computer Vision & Deep Learning
+  - Building real-world AI & Web projects
+  - Diving into Mobile Development
+  - Open to collaboration!
 ```
 
-> *"Code with heart, build with purpose."* 🌷
+> *"Code with heart, build with purpose."*
 
 <br clear="right"/>
 
@@ -55,7 +51,7 @@ currently :
 
 ### 🎀 `my skills`
 
-**💻 Languages**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-FFD6E7?style=for-the-badge&logo=python&logoColor=FF6B9D)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD6E7?style=for-the-badge&logo=javascript&logoColor=FF6B9D)
@@ -63,7 +59,7 @@ currently :
 ![CSS3](https://img.shields.io/badge/CSS3-FFD6E7?style=for-the-badge&logo=css3&logoColor=FF6B9D)
 ![SQL](https://img.shields.io/badge/SQL-FFD6E7?style=for-the-badge&logo=postgresql&logoColor=FF6B9D)
 
-**🤖 AI / ML / Data**
+**AI / ML / Data**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FFE4EF?style=for-the-badge&logo=tensorflow&logoColor=FF6B9D)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-FFE4EF?style=for-the-badge&logo=scikit-learn&logoColor=FF6B9D)
@@ -72,7 +68,7 @@ currently :
 ![NumPy](https://img.shields.io/badge/NumPy-FFE4EF?style=for-the-badge&logo=numpy&logoColor=FF6B9D)
 ![Jupyter](https://img.shields.io/badge/Jupyter-FFE4EF?style=for-the-badge&logo=jupyter&logoColor=FF6B9D)
 
-**🛠️ Tools & Platforms**
+**Tools & Platforms**
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-FFCCD5?style=for-the-badge&logo=visual-studio-code&logoColor=FF6B9D)
 ![GitHub](https://img.shields.io/badge/GitHub-FFCCD5?style=for-the-badge&logo=github&logoColor=FF6B9D)
@@ -86,12 +82,12 @@ currently :
 
 <div align="center">
 
-| 💭 Focus | 🌸 Progress |
+| Focus | Progress |
 |:---|:---|
-| 📱 Mobile Development | `🌸🌸🌸🌸🌸🌸░░░░` 60% |
-| 🤖 Computer Vision (YOLO) | `🌸🌸🌸🌸🌸░░░░░` 55% |
-| 🌐 Full-Stack Web Dev | `🌸🌸🌸🌸░░░░░░` 40% |
-| ⛓️ Smart Contract | `🌸🌸🌸░░░░░░░` 30% |
+| Mobile Development | `🌸🌸🌸🌸🌸🌸░░░░` 60% |
+| Computer Vision (YOLO) | `🌸🌸🌸🌸🌸░░░░░` 55% |
+| Full-Stack Web Dev | `🌸🌸🌸🌸░░░░░░` 40% |
+| Smart Contract | `🌸🌸🌸░░░░░░░` 30% |
 
 </div>
 
@@ -102,7 +98,6 @@ currently :
 <div align="center">
 
 <a href="https://github.com/rarasyifaqaisa/pantaugizi-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rarasyifaqaisa&repo=vision-guard&hide_border=true&bg_color=fff0f5&title_color=FF6B9D&icon_color=FF6B9D&text_color=c9547a" />
 </a>
 &nbsp;
 
@@ -110,21 +105,13 @@ currently :
 
 <br/>
 
-🔐 **VisionGuard** — Real-time object detection with YOLOv8 + OpenCV. Smart & cute surveillance system! 👁️🌸
-
-📊 **DataFlow AI** — End-to-end ML pipeline with interactive dashboard. Data never looked this pretty! 🎀
-
-> 💌 *More projects brewing... Stay tuned!* ☕
+> *More projects brewing... Stay tuned!*
 
 ---
 
 ### 📊 `my github stats`
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=rarasyifaqaisa&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=FF6B9D&icon_color=FF6B9D&text_color=c9547a&count_private=true&include_all_commits=true" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarasyifaqaisa&layout=compact&hide_border=true&bg_color=fff0f5&title_color=FF6B9D&text_color=c9547a&langs_count=6" />
 
 </div>
 
@@ -140,7 +127,7 @@ currently :
 
 <div align="center">
 
-*I'd love to chat about AI, tech, ideas, or just anything cool!* 🌸
+*I'd love to chat about AI, tech, ideas, or just anything cool!*
 
 <br/>
 
@@ -151,7 +138,7 @@ currently :
 
 <br/>
 
-*"Every line of code is a love letter to the future."* 🌷💗
+*"Every line of code is a love letter to the future."*
 
 <br/>
 
