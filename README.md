@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1E40AF&height=200&section=header&text=Rara%20Syifa%20Qaisa&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Builder%20%C2%B7%20Apple%20Developer%20Academy%20Candidate&descAlignY=58&descSize=14&descColor=BFDBFE" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1E40AF&height=200&section=header&text=Rara%20Syifa%20Qaisa&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Builder&descAlignY=58&descSize=14&descColor=BFDBFE" />
 
 </div>
 
