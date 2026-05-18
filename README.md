@@ -7,9 +7,9 @@
 <br/>
 
 ```
- Aceh Barat, Indonesia
- Information of Technology — Teuku Umar University
- Website Operator · Faculty of Economics and Business
+🌍  Aceh Barat, Indonesia
+🎓  Information of Technology — Teuku Umar University
+💼  Website Operator · Faculty of Economics and Business
 ```
 
 ---
@@ -18,6 +18,59 @@
 
 I build AI-powered products that solve real problems in Indonesia.  
 Not to show off tech — but to make things that genuinely matter.
+
+---
+
+## Projects
+
+### PantauGizi — AI Nutrition Tracker for Indonesian Food
+> **Photo a meal → instant calories & macros, in Bahasa Indonesia**
+
+Indonesian food is invisible to most nutrition apps. PantauGizi fixes that.
+
+- Custom AI pipeline: photo → Imagga Vision API → keyword matching → local nutrition DB
+- Boosted food recognition from **~40% → ~73%** accuracy
+- Shipped as **PWA** installable on iPhone (no Xcode required)
+- Covers 15+ local dishes: nasi padang, gado-gado, rendang, soto ayam
+
+**Stack:** `React 18` `FastAPI` `Imagga Vision API` `Supabase` `Vercel` `PWA`
+
+🔗 [pantaugizi-app.vercel.app](https://pantaugizi-app.vercel.app)
+
+---
+
+### SkripsiMatch — AI Thesis Checker & Supervisor Recommender
+> **Thesis approval that took weeks — now done in 5 seconds**
+
+- Semantic NLP engine using **Sentence Transformers** (all-MiniLM-L6-v2)
+- Cosine similarity scores thesis titles against 50+ existing submissions
+- Ranks lecturers by expertise match — no more guessing who to ask
+- 3-tier alert system: `>80%` duplicate · `50–80%` caution · `<50%` clear
+
+**Stack:** `React` `FastAPI` `Sentence Transformers` `Cosine Similarity` `Vercel`
+
+🔗 [skripsimatch.vercel.app](https://skripsimatch.vercel.app)
+
+---
+
+### RENUNG — AI Thinking Companion
+> **Three philosophical personas that ask questions instead of giving answers**
+
+AI that makes you think *more*, not less.
+
+| Persona | Role | What it does |
+|---------|------|-------------|
+| **FYODOR** | Penggali Akar | Digs for root assumptions beneath your question |
+| **MIYAMOTO** | Pemotong Abstraksi | Cuts through vague thinking, forces specificity |
+| **HARUKI** | Penjaga Ritme | Guards emotional rhythm — asks about time and patience |
+
+- Cognitive depth tracker — measures how deep your thinking goes
+- Auto session summary — what was explored, what remains open
+- Built on research about attention economy & cognitive outsourcing
+
+**Stack:** `React` `Vite` `Anthropic Claude API` `Multi-agent Engineering` `Vercel`
+
+🔗 [renung.vercel.app](https://renung.vercel.app)
 
 ---
 
