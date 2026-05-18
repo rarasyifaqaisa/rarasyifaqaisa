@@ -1,147 +1,139 @@
-<!-- ══════════════════════════════════════════════════ -->
-<!--       RARA SYIFA QAISA — Pinky Cute README 🌸     -->
-<!-- ══════════════════════════════════════════════════ -->
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1E40AF&height=200&section=header&text=Rara%20Syifa%20Qaisa&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Builder%20%C2%B7%20Apple%20Developer%20Academy%20Candidate&descAlignY=58&descSize=14&descColor=BFDBFE" />
 
 </div>
 
 <br/>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=20&duration=3000&pause=800&color=FF6B9D&center=true&vCenter=true&width=650&lines=Hello+there!+I'm+Rara+%F0%9F%8C%B8;Building+AI+%26+Web+Projects+with+Love+%F0%9F%92%97;Turning+Ideas+into+Reality%2C+One+Commit+at+a+Time+%F0%9F%8C%B7;Let's+create+something+beautiful+together+%E2%9C%A8)](https://git.io/typing-svg)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=rarasyifaqaisa&style=flat-square&color=FF6B9D&label=✨+visitors)
-&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/rarasyifaqaisa?style=flat-square&color=FF6B9D&label=🌸+followers)
-
-</div>
-
----
-
-### 🌸 `about me`
-
-```yaml
-name      : Rara Syifa Qaisa
-study     : S1 Teknologi Informasi
-location  : Indonesia 🇮🇩
-mood      : always caffeinated
-
-loves     :
-  - Building AI things
-  - Clean & pretty UI
-  - Learning new tech
-  - Smart Contracts
-
-currently :
-  - Exploring Computer Vision & Deep Learning
-  - Building real-world AI & Web projects
-  - Diving into Mobile Development
-  - Open to collaboration!
+```
+🌍  Aceh Barat, Indonesia
+🎓  Information of Technology — Teuku Umar University
+💼  Website Operator · Faculty of Economics and Business
 ```
 
-> *"Code with heart, build with purpose."*
+---
 
-<br clear="right"/>
+## 💡 What I Build
+
+I build AI-powered products that solve real problems in Indonesia.  
+Not to show off tech — but to make things that genuinely matter.
 
 ---
 
-### 🎀 `my skills`
+## 🚀 Projects
 
-**Languages**
+### 🥗 PantauGizi — AI Nutrition Tracker for Indonesian Food
+> **Photo a meal → instant calories & macros, in Bahasa Indonesia**
 
-![Python](https://img.shields.io/badge/Python-FFD6E7?style=for-the-badge&logo=python&logoColor=FF6B9D)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD6E7?style=for-the-badge&logo=javascript&logoColor=FF6B9D)
-![HTML5](https://img.shields.io/badge/HTML5-FFD6E7?style=for-the-badge&logo=html5&logoColor=FF6B9D)
-![CSS3](https://img.shields.io/badge/CSS3-FFD6E7?style=for-the-badge&logo=css3&logoColor=FF6B9D)
-![SQL](https://img.shields.io/badge/SQL-FFD6E7?style=for-the-badge&logo=postgresql&logoColor=FF6B9D)
+Indonesian food is invisible to most nutrition apps. PantauGizi fixes that.
 
-**AI / ML / Data**
+- 📷 Custom AI pipeline: photo → Imagga Vision API → keyword matching → local nutrition DB
+- 📈 Boosted food recognition from **~40% → ~73%** accuracy
+- 📱 Shipped as **PWA** installable on iPhone (no Xcode required)
+- 🍛 Covers 15+ local dishes: nasi padang, gado-gado, rendang, soto ayam
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FFE4EF?style=for-the-badge&logo=tensorflow&logoColor=FF6B9D)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-FFE4EF?style=for-the-badge&logo=scikit-learn&logoColor=FF6B9D)
-![OpenCV](https://img.shields.io/badge/OpenCV-FFE4EF?style=for-the-badge&logo=opencv&logoColor=FF6B9D)
-![Pandas](https://img.shields.io/badge/Pandas-FFE4EF?style=for-the-badge&logo=pandas&logoColor=FF6B9D)
-![NumPy](https://img.shields.io/badge/NumPy-FFE4EF?style=for-the-badge&logo=numpy&logoColor=FF6B9D)
-![Jupyter](https://img.shields.io/badge/Jupyter-FFE4EF?style=for-the-badge&logo=jupyter&logoColor=FF6B9D)
+**Stack:** `React 18` `FastAPI` `Imagga Vision API` `Supabase` `Vercel` `PWA`
 
-**Tools & Platforms**
-
-![VS Code](https://img.shields.io/badge/VS%20Code-FFCCD5?style=for-the-badge&logo=visual-studio-code&logoColor=FF6B9D)
-![GitHub](https://img.shields.io/badge/GitHub-FFCCD5?style=for-the-badge&logo=github&logoColor=FF6B9D)
-![Canva](https://img.shields.io/badge/Canva-FFCCD5?style=for-the-badge&logo=canva&logoColor=FF6B9D)
-![Figma](https://img.shields.io/badge/Figma-FFCCD5?style=for-the-badge&logo=figma&logoColor=FF6B9D)
-![Notion](https://img.shields.io/badge/Notion-FFCCD5?style=for-the-badge&logo=notion&logoColor=FF6B9D)
+🔗 [pantaugizi-app.vercel.app](https://pantaugizi-app.vercel.app)
 
 ---
 
-### 🌷 `what i'm up to`
+### 📚 SkripsiMatch — AI Thesis Checker & Supervisor Recommender
+> **Thesis approval that took weeks — now done in 5 seconds**
+
+- 🧠 Semantic NLP engine using **Sentence Transformers** (all-MiniLM-L6-v2)
+- 📊 Cosine similarity scores thesis titles against 50+ existing submissions
+- 👨‍🏫 Ranks lecturers by expertise match — no more guessing who to ask
+- ⚡ 3-tier alert system: `>80%` duplicate · `50–80%` caution · `<50%` clear
+
+**Stack:** `React` `FastAPI` `Sentence Transformers` `Cosine Similarity` `Vercel`
+
+🔗 [skripsimatch.vercel.app](https://skripsimatch.vercel.app)
+
+---
+
+### 🧠 RENUNG — AI Thinking Companion
+> **Three philosophical personas that ask questions instead of giving answers**
+
+AI that makes you think *more*, not less.
+
+| Persona | Role | What it does |
+|---------|------|-------------|
+| **FYODOR** | Penggali Akar | Digs for root assumptions beneath your question |
+| **MIYAMOTO** | Pemotong Abstraksi | Cuts through vague thinking, forces specificity |
+| **HARUKI** | Penjaga Ritme | Guards emotional rhythm — asks about time and patience |
+
+- 🔍 Cognitive depth tracker — measures how deep your thinking goes
+- 📝 Auto session summary — what was explored, what remains open
+- 💡 Built on research about attention economy & cognitive outsourcing
+
+**Stack:** `React` `Vite` `Anthropic Claude API` `Multi-agent Engineering` `Vercel`
+
+🔗 [renung.vercel.app](https://renung.vercel.app)
+
+---
+
+## 💼 Work Experience
+
+**Website Operator** · Faculty of Economics and Business · Teuku Umar University *(2026 – Present)*
+
+Managing and developing the official academic website serving 3,200+ students and 80+ lecturers.
+WordPress + custom HTML/CSS · Content management · Frontend customisation
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React_18-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Backend & AI**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Sentence_Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=flat&logoColor=white)
+
+**Infrastructure**
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-| Focus | Progress |
-|:---|:---|
-| Mobile Development | `🌸🌸🌸🌸🌸🌸` 60% |
-| Computer Vision (YOLO) | `🌸🌸🌸🌸🌸` 55% |
-| Full-Stack Web Dev | `🌸🌸🌸🌸` 40% |
-| Smart Contract | `🌸🌸🌸` 30% |
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=rarasyifaqaisa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarasyifaqaisa&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-### 💝 `featured projects`
+## 📬 Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/rarasyifaqaisa/pantaugizi-app">
-</a>
-&nbsp;
+[![Email](https://img.shields.io/badge/rarasyifaqaisa@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rarasyifaqaisa@gmail.com)
+[![GitHub](https://img.shields.io/badge/github.com/rarasyifaqaisa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rarasyifaqaisa)
 
-</div>
-
-<br/>
-
-> *More projects brewing... Stay tuned!*
-
----
-
-### 📊 `my github stats`
-
-<div align="center">
+*"The best technology disappears into the experience."*
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rarasyifaqaisa&hide_border=true&background=fff0f5&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D&sideLabels=FF6B9D&dates=c9547a&currStreakNum=FF6B9D&sideNums=FF6B9D)](https://git.io/streak-stats)
-
-</div>
-
----
-
-### 💌 `let's connect!`
-
-<div align="center">
-
-*I'd love to chat about AI, tech, ideas, or just anything cool!*
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD6E7?style=for-the-badge&logo=linkedin&logoColor=FF6B9D)](https://linkedin.com/in/rarasyifaqaisa)
-[![Instagram](https://img.shields.io/badge/Instagram-FFD6E7?style=for-the-badge&logo=instagram&logoColor=FF6B9D)](https://instagram.com/rarasyifa._)
-[![Gmail](https://img.shields.io/badge/Gmail-FFD6E7?style=for-the-badge&logo=gmail&logoColor=FF6B9D)](mailto:rarasyifaqaisa@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFD6E7?style=for-the-badge&logo=vercel&logoColor=FF6B9D)](https://pantaugizi-app.vercel.app)
-
-<br/>
-
-*"Every line of code is a love letter to the future."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1E40AF&height=100&section=footer" />
 
 </div>
