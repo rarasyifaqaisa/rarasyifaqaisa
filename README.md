@@ -7,9 +7,9 @@
 <br/>
 
 ```
-🌍  Aceh Barat, Indonesia
-🎓  Information of Technology — Teuku Umar University
-💼  Website Operator · Faculty of Economics and Business
+Aceh Barat, Indonesia
+Information of Technology — Teuku Umar University
+Website Operator · Faculty of Economics and Business
 ```
 
 ---
